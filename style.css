@@ -1,6 +1,7 @@
 a {
     color: grey;
     font-family: Verdana;
+    font-weight: 500;
     margin: auto;
 }
 
@@ -21,6 +22,7 @@ h1 {
     color: black;
     text-align: center;
     margin: 0px;
+    color:navy;
 }
 
 .navbar {
@@ -28,4 +30,18 @@ h1 {
     padding: 20px;
     display: flex;
     justify-content: space-between;
+}
+
+h2 {
+    font-family: verdana;
+    background: #D0E3CC;
+}
+
+li, p {
+    background: #F7FFDD;
+    margin: auto;
+}
+
+img {
+    align: center;
 }
