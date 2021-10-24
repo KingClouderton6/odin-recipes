@@ -1,0 +1,27 @@
+a {
+    color: #c2e5e9;
+    font-family: Verdana;
+    font-size: 18px;
+    border-radius: 5%;
+    margin: auto;
+}
+
+.button {
+    background: #DBA159;
+}
+
+a:hover {
+    color: purple;
+}
+
+h1 {
+    background:#D0E3CC;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.navbar {
+    background-color:#F7FFDD;
+    padding: 20px;
+}
