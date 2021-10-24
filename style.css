@@ -1,13 +1,14 @@
 a {
-    color: #c2e5e9;
+    color: grey;
     font-family: Verdana;
-    font-size: 18px;
-    border-radius: 5%;
     margin: auto;
 }
 
 .button {
-    background: #DBA159;
+    padding: 25px 47px;
+    display: inline-block;
+    height: auto%;
+    width: auto%;
 }
 
 a:hover {
@@ -19,9 +20,12 @@ h1 {
     font-family: Verdana, Tahoma, sans-serif;
     color: black;
     text-align: center;
+    margin: 0px;
 }
 
 .navbar {
     background-color:#F7FFDD;
     padding: 20px;
+    display: flex;
+    justify-content: space-between;
 }
